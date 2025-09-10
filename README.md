@@ -22,6 +22,8 @@
 ## Goals
 
 **I find myself in constant self-learning in order to become a solution implementer—expanding my knowledge, improving my capacity to understand problems, and proposing solutions. 
-**I am facing new challenges that push me out of my comfort zone. The investigative learning methodology is one of the most uncomfortable ways to learn, yet I see it as an opportunity for growth **In this course. In addition, blockchain is a new concept for me, and I hope it will bring a valuable learning experience.
+
+**I am facing new challenges that push me out of my comfort zone. The investigative learning methodology is one of the most uncomfortable ways to learn, yet I see it as an opportunity for growth In this course. In addition, blockchain is a new concept for me, and I hope it will bring a valuable learning experience.
+
 
 
